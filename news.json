@@ -1,6 +1,9 @@
-{
+[
+    {
     "version": 2,
     "image": "https://github.com/oSimonide/News/blob/main/news-banner.jpg",
     "link": "wwww.google.fr",
-    "text":  "je finirais bien par mettre la main sur c'bardella"
-}
+    "text":  "je finirais bien par mettre la main sur ce jordan bardella",
+    "title": "Nouvelle importante"
+    }
+]
